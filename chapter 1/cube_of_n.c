@@ -8,4 +8,5 @@ int main(){
 
     int cube = n*n*n;       //arithmatic operator
     printf("Cube of %d is %d.\n", n, cube);
+    return 0;
 }
