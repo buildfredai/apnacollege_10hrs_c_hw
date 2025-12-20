@@ -7,5 +7,5 @@ int main(){
     scanf("%d",&n);     //input
 
     int cube = n*n*n;       //arithmatic operator
-    printf("Cube of %d is %d.");
+    printf("Cube of %d is %d.\n", n, cube);
 }

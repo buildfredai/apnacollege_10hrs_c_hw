@@ -10,6 +10,6 @@ int main(){
     scanf("%d",&breadth);       //input
 
     int perimeter = 2*(length + breadth);       //arithmatic operator
-    printf("Perimeter of %d and %d is %d.",length,breadth, perimeter);
+    printf("Perimeter of %d and %d is %d.\n",length,breadth, perimeter);
     return 0;
 }
