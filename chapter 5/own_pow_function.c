@@ -21,5 +21,4 @@ int pow(int num, int pow_value){        //formal parameter
         
     }
     return result;
-    
 }
