@@ -95,7 +95,7 @@ int fact(int n) {
 
 ---
 
-## Quick Notes (Exam Friendly)
+## Quick Notes
 
 * Every recursive function **must have a base condition**
 * Function declaration is also called **function prototype**
