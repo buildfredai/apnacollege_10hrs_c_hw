@@ -5,11 +5,11 @@ Take sides, a & b, from the user.*/
 int main(){
     int length,breadth;
     printf("Enter length of the rectangle: ");
-    scanf("%d",&length);
+    scanf("%d",&length);        //input
     printf("Enter breadth of the rectangle: ");
-    scanf("%d",&breadth);
+    scanf("%d",&breadth);       //input
 
-    int perimeter = 2*(length + breadth);
+    int perimeter = 2*(length + breadth);       //arithmatic operator
     printf("Perimeter of %d and %d is %d.",length,breadth, perimeter);
     return 0;
 }
