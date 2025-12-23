@@ -1,3 +1,5 @@
+//b. Write a program to check if the given number is a natural number.
+
 #include<stdio.h>
 int main(){
     int n;
